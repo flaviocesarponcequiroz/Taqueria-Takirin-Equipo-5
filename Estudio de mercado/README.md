@@ -1,8 +1,9 @@
 Subir todos los documentos de las actividades:
 
 Descripción del producto #1
-[Marco regulatorio.pdf](https://github.com/user-attachments/files/23487927/Marco.regulatorio.pdf)
-[Descripción del producto.pdf](https://github.com/user-attachments/files/23487925/Descripcion.del.producto.pdf)
+[Descripción del producto.pdf](https://github.com/user-attachments/files/23487946/Descripcion.del.producto.pdf)
+[Marco regulatorio.pdf](https://github.com/user-attachments/files/23487948/Marco.regulatorio.pdf)
+[propuesta de valor.pdf](https://github.com/user-attachments/files/23487953/propuesta.de.valor.pdf)
 
 Mercado del proveedor #2[propuesta de valor.pdf](https://github.com/user-attachments/files/23487928/propuesta.de.valor.pdf)
 
