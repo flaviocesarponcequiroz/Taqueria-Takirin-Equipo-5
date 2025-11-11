@@ -2,8 +2,7 @@ Subir todos los documentos de las actividades:
 
 Descripción del producto #1
 
-Mercado del proveedor #2[propuesta de valor.pdf](https://github.com/user-attachments/files/23487928/propuesta.de.valor.pdf)
-
+Mercado del proveedor #2
 
 Análisis del consumidor #3
 
