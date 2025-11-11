@@ -1,14 +1,16 @@
 Subir todos los documentos de las actividades:
-[propuesta de valor.pdf](https://github.com/user-attachments/files/23487910/propuesta.de.valor.pdf)
-[Marco regulatorio.pdf](https://github.com/user-attachments/files/23487909/Marco.regulatorio.pdf)
-[Descripción del producto.pdf](https://github.com/user-attachments/files/23487906/Descripcion.del.producto.pdf)
-Descripción del producto #1
 
-Mercado del proveedor #2
+Descripción del producto #1
+[Marco regulatorio.pdf](https://github.com/user-attachments/files/23487927/Marco.regulatorio.pdf)
+[Descripción del producto.pdf](https://github.com/user-attachments/files/23487925/Descripcion.del.producto.pdf)
+
+Mercado del proveedor #2[propuesta de valor.pdf](https://github.com/user-attachments/files/23487928/propuesta.de.valor.pdf)
+
 
 Análisis del consumidor #3
 
 Análisis de la demanda #4
+[Analisis.de.demanda.pdf](https://github.com/user-attachments/files/23487934/Analisis.de.demanda.pdf)
 
 Fuentes de información primaria para la Investigación de mercados #5
 
