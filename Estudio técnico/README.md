@@ -1,16 +1,15 @@
-Subir todos los archivos de:
+Subir todos los documentos relacionados a las siguientes actividades que integran el estudio de técnico:
 
-Tamaño óptimo de la planta #13
+• Tamaño óptimo de la planta #13
 
-Localización óptima del proyecto #14
+• Localización óptima del proyecto #14
 
-Ingeniería del proyecto#15
+• Ingeniería del proyecto #15
 
-Necesidades maquinaria y equipo #16
+• Necesidades maquinaria y equipo #16
 
-Cadena de valor
+• Necesidades de materias primas #17
 
-Necesidades de materias primas
+• Cadena de valor #18
 
-Distribución de la planta
-
+• Distribución de la planta #19
